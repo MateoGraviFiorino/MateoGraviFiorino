@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Image processing](https://github.com/MateoGraviFiorino/ProcesamientoDeImagenes_2)
 
-- 🌱 I’m currently learning **OpenCV and scikit-learn**
+- 🌱 I’m currently learning **PyTorch and scikit-learn**
 
 - 👨‍💻 All of my projects are available at [github.com/MateoGraviFiorino](https://github.com/MateoGraviFiorino)
 
