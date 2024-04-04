@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo Gravi Fiorino</h1>
 <h3 align="center">Artificial Intelligence Student. Data Analyst.</h3>
 
-- 🔭 I’m currently working on [Image processing](https://github.com/MateoGraviFiorino/ProcesamientoDeImagenes_2)
+- 🔭 I’m currently working on [Computer Vision](https://github.com/MateoGraviFiorino/ProcesamientoDeImagenes_2)
 
 - 🌱 I’m currently learning **PyTorch and scikit-learn**
 
