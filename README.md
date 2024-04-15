@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Computer Vision](https://github.com/MateoGraviFiorino/Computer-Vision) , [Machine Learning](https://github.com/MateoGraviFiorino/AA1-TUIA-GraviFiorino-Gauto) and [Natural Lenguage Processing](https://github.com/MateoGraviFiorino/Natural-Lenguage-Processing) , and [Data Mining](https://github.com/MateoGraviFiorino/DataMining)
 
-- 🌱 I’m currently learning **PyTorch and scikit-learn**
+- 🌱 I’m currently learning **OpenCV, PyToroch, Nltk and scikit-learn**
 
 - 👨‍💻 All of my projects are available at [github.com/MateoGraviFiorino](https://github.com/MateoGraviFiorino)
 
