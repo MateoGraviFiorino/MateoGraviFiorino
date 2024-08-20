@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mateo Gravi Fiorino</h1>
-<h3 align="center">Artificial Intelligence Student. Data Analyst.</h3>
+<h3 align="center">Artificial Intelligence Student. AI consultant at Autologica. </h3>
 
-- My latest project: [CarDetection](https://github.com/MateoGraviFiorino/CarDetection)
+- My latest project: [Spanish Cards Detection](https://github.com/MateoGraviFiorino/Truco-CV)
 
 - 🔭 I’m currently working on [Computer Vision](https://github.com/MateoGraviFiorino/Computer-Vision) , [Machine Learning](https://github.com/MateoGraviFiorino/AA1-TUIA-GraviFiorino-Gauto) and [Natural Lenguage Processing](https://github.com/MateoGraviFiorino/Natural-Lenguage-Processing) , and [Data Mining](https://github.com/MateoGraviFiorino/DataMining)
 
-- 🌱 I’m currently learning **OpenCV, PyToroch, Nltk and scikit-learn**
+- 🌱 I’m currently learning **OpenAI Assistants, MLOps**
 
 - 👨‍💻 All of my projects are available at [github.com/MateoGraviFiorino](https://github.com/MateoGraviFiorino)
 
